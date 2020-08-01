@@ -1,0 +1,2 @@
+# pink
+website template "pink"
